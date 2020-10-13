@@ -2,9 +2,7 @@
 
 ## 使用方式：
 
-clone仓库到本地，解压 tree.zip，解压后用chrome打开 tree.html, 在文本框中输入家族树文本，点击提交即可生成相应家族树
-
-## 文本格式：
+clone仓库到本地，**解压 tree.zip**，解压后用chrome打开 **tree.html(不是test.html)**，在文本框中输入家族树文本，点击提交即可生成相应家族树 。
 
 ### 格式：
 
